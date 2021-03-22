@@ -1,0 +1,15 @@
+html {
+    background: lightblue;
+}
+
+.card {
+    background: cyan;
+    width: 40%;
+    padding: 10px;
+    border: 1px solid black;
+    box-shadow: 1px 5px 5px;
+}
+
+.card img {
+    width: 100%;
+}
